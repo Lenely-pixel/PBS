@@ -1,2 +1,2 @@
 Hello World!
-Checkig for changies
+Checking for changies
